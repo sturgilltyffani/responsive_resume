@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box; }
+
+/*# sourceMappingURL=main.css.map */
+
+div {
+  border: 1px solid orange;
+}
+
+
+nav {
+  height: 7em;
+  background-color: black;
+}
+
+body {
+  margin-top: 0;
+  margin-left: 20em;
+  margin-right: 20em;
+}
+
+.row {
+  margin: 9em;
+}
+
+#experience {
+  margin-top: 6em;
+  margin-bottom: 6em;
+  margin-left: 10em;
+  margin-right: 10em
+}
+#experience h5 {
+  border-bottom: solid;
+}
+
