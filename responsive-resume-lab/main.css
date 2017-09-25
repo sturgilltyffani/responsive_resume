@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box; }
+
+/*# sourceMappingURL=main.css.map */
+
+nav {
+  height: 7em;
+  background-color: black;
+}
+
+body {
+  margin-top: 0;
+  margin-left: 15em;
+  margin-right: 15em;
+  background-color: black;
+}
+
+#c#text-wrapper {
+  margin-top: 6em;
+  margin-bottom: 6em;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+#row-pictures {
+  width: fit-content;
+  height: fit-content;
+}
+
+#experience {
+  margin-top: 6em;
+  margin-bottom: 6em;
+  margin-left: 10em;
+  margin-right: 10em
+}
+#experience h5 {
+  border-bottom: solid;
+}
+
+input {
+  border-style: solid;
+}
+
+#picture1 {
+  background-image: url('https://lh6.googleusercontent.com/-7lm3nWt9_II/AAAAAAAAAAI/AAAAAAAAABM/bOMro3ttBX4/photo.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+#picture2 {
+  background-image: url('https://www.celebsgonegood.com/images/thumbnails/thumb-markiplier.jpg');
+  background-position: center;
+  background-size: cover;
+}
+#picture3 {
+  background-image: url('https://i.pinimg.com/736x/36/e8/17/36e81771f4478f3803add784b562c7ff--markiplier-hot-darkiplier.jpg');
+  background-position: center;
+  background-size: cover;
+}
+#picture4 {
+  background-image: url('http://www.nerdtests.com/mq/testimages/183278_02708cadd9c497621f47.jpg');
+  background-position: center;
+  background-size: cover;
+}
+#picture5 {
+  background-image: url('https://i.pinimg.com/736x/ea/0f/79/ea0f79fdb3b4d39b219adbc491fd5cae.jpg');
+  background-position: center;
+  background-size: cover;
+}
+#picture6 {
+  background-image: url('http://pm1.narvii.com/6420/0d0197efecab07236fa6d29a25017392bb0b4ced_hq.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.col.s12.m6.l4 {
+  height: 400px;
+}
+
+.row {
+  margin-bottom: 0 !important;
+}
+
+p, h1, h5{
+  color: white;
+}
+
+#hello, .contact {
+  padding-bottom: 5em;
+  padding-top: 5em;
+}
+
+#paragraph {
+  padding-bottom: 8em;
+  padding-top: 8em;
+}
+
