@@ -94,3 +94,9 @@ p, h1, h5{
   padding-top: 8em;
 }
 
+#contact_form {
+  margin-top: 6em;
+  margin-bottom: 6em;
+  margin-left: 10em;
+  margin-right: 10em
+}
